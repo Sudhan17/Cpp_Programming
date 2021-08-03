@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627144470 source:c:\users\tsoms\documents\code blocks\strings\asgn1.cpp
+	<iostream>
+	<string>
+
+1627144290 source:c:\users\tsoms\documents\code blocks\strings\main.cpp
+	<iostream>
+	<string>
+
