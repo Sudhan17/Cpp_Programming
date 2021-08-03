@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627977181 source:c:\users\tsoms\documents\code blocks\file_write data\main.cpp
+	<iostream>
+	<fstream>
+
