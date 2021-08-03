@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627979953 source:c:\users\tsoms\documents\code blocks\tellg_function\main.cpp
+	<iostream>
+	<fstream>
+
